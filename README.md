@@ -2,15 +2,15 @@
 
 <img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/432561196206391296/714638977117716530/Untitled-12.jpg.png" />
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.dev/discord)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://hyperz.dev/youtube)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hyperz.dev/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/itz-hyperz)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://hyperz.dev/github)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://ryandevelopment.live/discord)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZB4PUtotzZ6szC57XxHLAA)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ryandevelopment.live/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/RyanTheDev1)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/RyanTheDev12)
 
 ### Glad to see you here!
 
-I work full time in IT and Networking as well as a GTA5 Vehicle Modeler and Script developer. I'm a passionate learner who's always willing to learn more of what I love to do for a living. I love to explore new technologies as well as figure out how they work. Other than that, I love to hang out with friends with friends and goof off any moment I can. I'm currently into GTA5 sctipt development during my free time.
+I work full time in IT and Networking as well as a GTA5 Vehicle Modeler and Script developer. I'm a passionate learner who's always willing to learn more of what I love to do for a living. I love to explore new technologies as well as figure out how they work. Other than that, I love to hang out with friends with friends and goof off any moment I can. I'm currently into GTA5 sctipt development during my free time. I am also a developer for Alaska Gaming Network.
 
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-HYPERZ%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://hyperz.dev/discord)
