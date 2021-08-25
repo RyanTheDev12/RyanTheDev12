@@ -13,18 +13,13 @@
 I work full time in IT and Networking as well as a GTA5 Vehicle Modeler and Script developer. I'm a passionate learner who's always willing to learn more of what I love to do for a living. I love to explore new technologies as well as figure out how they work. Other than that, I love to hang out with friends with friends and goof off any moment I can. I'm currently into GTA5 sctipt development during my free time. I am also a developer for Alaska Gaming Network.
 
 
-[![DOD Badge](https://img.shields.io/badge/TEAM-HYPERZ%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://hyperz.dev/discord)
+
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
 
 ### Some Highlights:
 
-- 📌 &nbsp; [FiveM HUD Design](https://github.com/Itz-Hyperz/HyperzHudDesign-FiveM)
-- 🚀 &nbsp; [Guardian Discord Whitelist](https://github.com/Jordan2139/Guardian)
-- 🏫 &nbsp; [HyperzFiveM-Base](https://github.com/itz-hyperz/hyperzfivem-base)
-- 🌀 &nbsp; [Universal Commands](https://github.com/Itz-Hyperz/Universal-Commands)
-- 👓 &nbsp; [Utilities Discord Bot](https://github.com/Itz-Hyperz/Hyperz-Utilities-Bot)
 - 💻 &nbsp; [This Github Template](https://github.com/Itz-Hyperz/Itz-Hyperz)
 
 ### Languages and Tools:
@@ -59,10 +54,10 @@ I work full time in IT and Networking as well as a GTA5 Vehicle Modeler and Scri
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
-- Laptop: HP Pavillion (I have a custom desktop)
-- Browser: Brave Browser
-- Code Editor: VSCode - The best editor out there
-- Stay Updated: [YouTube](https://hyperz.dev/youtube), [Discord](https://hyperz.dev/discord), and [Twitter](https://twitter.com/itz_hyperz)
+- Laptop: Asus ROG (I have a custom desktop)
+- Browser: Firefox
+- Code Editor: VSCode and Sublime (Depends on what I'm editing)
+- Stay Updated: [YouTube](https://www.youtube.com/channel/UCZB4PUtotzZ6szC57XxHLAA), [Discord](https://ryandevelopment.live/discord), and [Twitter](https://twitter.com/RyanTheDev12)
 
 ---
 
