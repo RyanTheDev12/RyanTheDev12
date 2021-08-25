@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/itz-hyperz)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://hyperz.dev/github)
 
-### Glad to see you here! &nbsp; ![]
+### Glad to see you here!
 
 I work full time in IT and Networking as well as a GTA5 Vehicle Modeler and Script developer. I'm a passionate learner who's always willing to learn more of what I love to do for a living. I love to explore new technologies as well as figure out how they work. Other than that, I love to hang out with friends with friends and goof off any moment I can. I'm currently into GTA5 sctipt development during my free time.
 
