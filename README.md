@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Ryan!](https://ryandevelopment.live/) (Follow Me!)
 
-<img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logowhite.png" />
+<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/432561196206391296/714638977117716530/Untitled-12.jpg.png" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.dev/discord)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://hyperz.dev/youtube)
