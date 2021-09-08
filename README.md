@@ -20,7 +20,7 @@ I work full time in IT and Networking as well as a GTA5 Vehicle Modeler and Scri
 
 ### Some Highlights:
 
-- 💻 &nbsp; [This Github Template](https://github.com/Itz-Hyperz/Itz-Hyperz)
+- 💻 &nbsp; [This Github Template](https://github.com/RyanTheDev12/RyanTheDev12)
 
 ### Languages and Tools:
 
@@ -41,7 +41,7 @@ I work full time in IT and Networking as well as a GTA5 Vehicle Modeler and Scri
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/Itz-Hyperz">
+<a href="https://github.com/RyanTheDev12">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RyanTheDev12&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </a>
 </p>
