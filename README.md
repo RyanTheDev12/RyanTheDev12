@@ -51,7 +51,7 @@ I work full time in IT and spend some of my free time as a GTA5 Vehicle Modeler 
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
-- Laptop: Asus ROG (I have a custom desktop)
+- Laptop: Asus ROG (I have a custom built PC)
 - Browser: Firefox
 - Code Editor: VSCode and Sublime (Depends on what I'm editing)
 - Stay Updated: [YouTube](https://www.youtube.com/channel/UCZB4PUtotzZ6szC57XxHLAA), [Discord](https://ryandevelopment.live/discord), and [Twitter](https://twitter.com/RyanTheDev12)
