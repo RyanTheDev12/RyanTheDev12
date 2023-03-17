@@ -10,7 +10,7 @@
 
 ### Glad to see you here!
 
-I work full time in IT and spend some of my free time as a GTA5 Vehicle Modeler and Script developer. I'm a passionate learner who's always willing to learn more of what I love to do for a living. I love to explore new technologies as well as figure out how they work. Other than that, I love to hang out with friends with friends and goof off any moment I can. I'm currently into GTA5 sctipt development during my free time. I am also a developer for [Alaska PD](https://alaskapd.us)
+I work full time in IT and spend some of my free time as a GTA5 Vehicle Modeler and Script developer. I'm a passionate learner who's always willing to learn more of what I love to do for a living. I love to explore new technologies as well as figure out how they work. Other than that, I love to hang out with friends with friends and goof off any moment I can. I'm currently into GTA5 sctipt development during my free time. I am also a developer for [AlaskaPD](https://alaskapd.us)
 
 
 
