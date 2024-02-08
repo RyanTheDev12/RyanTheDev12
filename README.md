@@ -10,7 +10,7 @@
 
 ### Glad to see you here!
 
-I work full time in IT and spend some of my free time as a GTA5 Vehicle Modeler and Script developer. I'm a passionate learner who's always willing to learn more of what I love to do for a living. I love to explore new technologies as well as figure out how they work. Other than that, I love to hang out with friends with friends and goof off any moment I can. I'm currently into GTA5 sctipt development during my free time. I am also a developer for [AlaskaPD](https://alaskapd.net)
+I work full time in IT and spend some of my free time as a GTA5 Vehicle Modeler and Script developer. I'm a passionate learner who's always willing to learn more of what I love to do for a living. I love to explore new technologies as well as figure out how they work. Other than that, I love to hang out with friends with friends and goof off any moment I can. I'm currently into GTA5 sctipt development during my free time. I also run a hosting company with one of my good friends! [Mellow Services](https://mellowservices.com)
 
 
 
@@ -51,10 +51,19 @@ I work full time in IT and spend some of my free time as a GTA5 Vehicle Modeler 
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
-- Laptop: Asus ROG (I have a custom built PC)
+- Laptop: Alienware A51M R2 (I have a custom built PC)
 - Browser: Firefox
 - Code Editor: VSCode and Sublime (Depends on what I'm editing)
 - Stay Updated: [YouTube](https://www.youtube.com/channel/UCZB4PUtotzZ6szC57XxHLAA), [Discord](https://ryandevelopment.live/discord), and [Twitter](https://twitter.com/RyanTheDev12)
+
+---
+### 💻 My PC Specs: :
+
+- CPU: Intel i9 10900k
+- RAM: 64GB DDR4
+- Storage: Samsung 980 PRO 1TB M.2 (Boot Drive)
+           Crucial P3 4TB M.2
+- GPU: RTX 3080 Ti
 
 ---
 
